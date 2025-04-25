@@ -78,13 +78,12 @@ The analysis was performed using three CSV files:
 
 - `Data Analyst Intern Assignment.ipynb` – Full notebook with code, visualizations, and insights
 - `README.md` – Project summary and context
-- *(optional)* `summary.pdf` – Slide deck with top insights and recommendations (if you create it)
 
 ---
 
 ## 📬 Contact
 
-For questions or collaborations, feel free to reach out via [LinkedIn](#) or [Email](mailto:your.email@example.com)
+For questions or collaborations, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/m1010nish/) or [Email](mailto:manishsinghjnv11@gmail.com)
 
 ---
 
